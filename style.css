@@ -41,3 +41,10 @@ form .display{
     justify-content: center;
     margin: 20px 0;
 }
+
+form .display input{
+    box-shadow: none;
+    border: solid 2px;
+    /* flex: 1; */
+    font-size: 45px;
+}
