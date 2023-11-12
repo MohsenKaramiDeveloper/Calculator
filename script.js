@@ -1,1 +1,3 @@
-let one = document.getElementById
+// let one = document.getElementById("AC");{
+//     type="button" value="AC";
+// }
